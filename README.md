@@ -31,6 +31,6 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 # Tableau
 
-| Project Link | Project Description | Dashboard Link |
-|---|---|---|
-| TBD | TBD | TBD |
+| Project Link | Project Description |
+|---|---|
+| [Tableau Profile](https://public.tableau.com/app/profile/holden.jahn) | View my public Tableau profile here. Note: These are just the dashboards I created with public data. |
